@@ -1,0 +1,12 @@
+C:\Users\Joseph\source\repos\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+C:\Users\Joseph\source\repos\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+C:\Users\Joseph\source\repos\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+C:\Users\Joseph\source\repos\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.xml
+C:\Users\Joseph\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\Joseph\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.frmInterest.resources
+C:\Users\Joseph\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.Resources.resources
+C:\Users\Joseph\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.vbproj.GenerateResource.Cache
+C:\Users\Joseph\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.exe
+C:\Users\Joseph\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.xml
+C:\Users\Joseph\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.pdb
